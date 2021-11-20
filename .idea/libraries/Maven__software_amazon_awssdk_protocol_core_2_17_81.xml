@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: software.amazon.awssdk:protocol-core:2.17.81">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/software/amazon/awssdk/protocol-core/2.17.81/protocol-core-2.17.81.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/software/amazon/awssdk/protocol-core/2.17.81/protocol-core-2.17.81-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/software/amazon/awssdk/protocol-core/2.17.81/protocol-core-2.17.81-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
