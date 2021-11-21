@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.application.CatpointGui;
+import org.example.security.application.CatpointGui;
 
 /**
  * This is the main class that launches the application.
