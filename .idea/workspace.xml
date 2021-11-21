@@ -4,86 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d249a57-c3db-44c3-95e3-80e6cd1b8c04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/code_coverage_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+    <list default="true" id="134a1af9-6b0b-4f9d-9002-7d1947a7a2b6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/src/main/java/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/src/main/java/org/example/image/AwsImageService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/src/main/java/org/example/image/FakeImageService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/src/main/java/org/example/image/ImageService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/src/test/java/org/example/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/target/classes/module-info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/target/classes/org/example/AwsImageService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/target/classes/org/example/FakeImageService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/target/classes/org/example/ImageService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/target/classes/org/example/image/AwsImageService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/target/classes/org/example/image/FakeImageService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/target/classes/org/example/image/ImageService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/target/test-classes/org/example/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/src/main/java/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/src/main/java/org/example/security/application/StatusListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/src/main/java/org/example/security/data/AlarmStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/src/main/java/org/example/security/data/ArmingStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/src/main/java/org/example/security/data/PretendDatabaseSecurityRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/src/main/java/org/example/security/data/SecurityRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/src/main/java/org/example/security/data/Sensor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/src/main/java/org/example/security/data/SensorType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/src/main/java/org/example/security/service/SecurityService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/src/test/java/org/example/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/module-info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/application/StatusListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/data/AlarmStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/data/ArmingStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/data/PretendDatabaseSecurityRepositoryImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/data/PretendDatabaseSecurityRepositoryImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/data/SecurityRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/data/Sensor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/data/SensorType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/security/application/StatusListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/security/data/AlarmStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/security/data/ArmingStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/security/data/PretendDatabaseSecurityRepositoryImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/security/data/PretendDatabaseSecurityRepositoryImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/security/data/SecurityRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/security/data/Sensor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/security/data/SensorType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/security/service/SecurityService$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/security/service/SecurityService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/service/SecurityService$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/classes/org/example/service/SecurityService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/test-classes/org/example/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CatpointApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/security/application/CatpointGui.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/security/application/ControlPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/security/application/DisplayPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/security/application/ImagePanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/security/application/SensorPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/security/service/StyleService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/CatpointApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/application/CatpointGui.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/application/ControlPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/application/DisplayPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/application/ImagePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/application/SensorPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/security/application/CatpointGui.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/security/application/ControlPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/security/application/DisplayPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/security/application/ImagePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/security/application/SensorPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/security/service/StyleService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/StyleService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/catpoint-parent/image/image.iml" beforeDir="false" afterPath="$PROJECT_DIR$/starter/catpoint-parent/image/image.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/catpoint-parent/security/security.iml" beforeDir="false" afterPath="$PROJECT_DIR$/starter/catpoint-parent/security/security.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,36 +19,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="21Ds3GLd0EtnP7vBkEdcTAmJDMg" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="udasecurity" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="udasecurity" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="4d249a57-c3db-44c3-95e3-80e6cd1b8c04" name="Changes" comment="" />
-      <created>1637486791969</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1637486791969</updated>
-    </task>
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
